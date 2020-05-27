@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.jhipster_blog"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster_blog",
+    "packageName": "com.example.jhipster_blog",
+    "packageFolder": "com/example/jhipster_blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTEyYzNmMWIxNDgyMWEwZjAwYzdhMGQwNWQ1MGM0Mzg4YTY5MzQ2NDJjZDc5OTZhMGRmNWE2MDQ1MmI2OGU1YTU4ZTg1YzE5Y2M2MzYwOTcwOTA0YmU5ZTFmYjk1ZDhiN2FjMmU5MGJkZGEzYmJiYWE5OGM1MWIxMDE4YTU1Mjc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1590559608566,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
