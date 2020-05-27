@@ -55,9 +55,9 @@ spring:
     allow-bean-definition-overriding: true
   messages:
     basename: i18n/messages
-  mvc:
-    favicon:
-      enabled: false
+#  mvc:
+#    favicon:
+#      enabled: false                   'It's deprecated'
   task:
     execution:
       thread-name-prefix: jhipster-blog-task-
